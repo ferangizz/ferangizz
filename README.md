@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ferangiz
-- 👀 I’m interested in vollyball and swimming
-- 🌱 I’m currently learning coding and testing automotion
-- 💞️ I’m looking to collaborate on cydeo
-- 📫 How to reach me is on discord
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently 
+- 💞️ I’m looking to 
+- 📫 How to reach me is
 
 <!---
 ferangizz/ferangizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
